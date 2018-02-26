@@ -1,0 +1,22 @@
+{
+  "name": "geojson-layer-js",
+  "homepage": "https://github.com/Esri/geojson-layer-js",
+  "authors": [
+    "Patricio Rojas <patricio@irricrops.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "geojson-layer-js": "Esri/geojson-layer-js",
+    "terraformer": "^1.0.8",
+    "terraformer-arcgis-parser": "^1.0.5"
+  }
+}
